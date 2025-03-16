@@ -1,0 +1,8 @@
+BubbleSort and MergeSort are very similar.
+They both sort numbers in an array from smallest to largest.
+They both used the methods: createRandomArray, writeArrayToFile, and readArrayToFile.
+I didn't have to change my code inside those methods, which was really helpful and convienent.
+I included a printArray method for mergeSort, and used the same code in the bubbleSort method.
+In order to implement the choice of either BubbleSort or MergeSort I included if statements.
+BubbleSort has 1 bubbleSort method.
+MergeSort has a mergeSort method, and a merge method in order to complete the sort.
